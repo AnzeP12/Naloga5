@@ -1,1 +1,2 @@
-Lahko noc
+Dober dan
+Dobro jutro
